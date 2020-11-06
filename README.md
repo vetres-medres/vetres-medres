@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here is VetRes&MedRes website.
 
 <!--
 **vetres-medres/vetres-medres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
